@@ -1,7 +1,7 @@
 {
   "name": "react-starter",
   "version": "1.0.0",
-  "description": "sample react app startet",
+  "description": "sample react app starter",
   "main": "index.js",
   "dependencies": {
     "6to5ify": "^4.1.0",
@@ -18,6 +18,6 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "author": "Gilbert F. Sewovoe-Ekoue",
   "license": "MIT"
 }
