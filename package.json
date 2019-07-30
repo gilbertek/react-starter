@@ -6,13 +6,13 @@
   "dependencies": {
     "6to5ify": "^4.1.0",
     "browserify": "^16.2.3",
-    "react": "^0.12.2",
+    "react": "^16.8.6",
     "watchify": "^3.11.1"
   },
   "devDependencies": {
     "6to5ify": "^4.1.0",
     "browserify": "^16.2.3",
-    "react": "^0.12.2",
+    "react": "^16.8.6",
     "watchify": "^3.11.1"
   },
   "scripts": {
