@@ -5,13 +5,13 @@
   "main": "index.js",
   "dependencies": {
     "6to5ify": "^4.1.0",
-    "browserify": "^16.2.3",
+    "browserify": "^17.0.0",
     "react": "^16.8.6",
     "watchify": "^3.11.1"
   },
   "devDependencies": {
     "6to5ify": "^4.1.0",
-    "browserify": "^16.2.3",
+    "browserify": "^17.0.0",
     "react": "^16.8.6",
     "watchify": "^3.11.1"
   },
